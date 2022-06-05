@@ -1,7 +1,6 @@
 # TL;DR
 
 - 💬 Ask me about Distributed Systems, ETL/Streaming, & Cloud Application Development.
-- 🤔 I’m looking for help with testing automation.
 - 👋🏿 Post Questions to the Community !
  
 Lets Connect 👇🏿

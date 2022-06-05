@@ -1,6 +1,5 @@
 ### Welcome, Feel Free to reach outor follow me 
 
-- 🔭 I’m currently working on publishing a series of articles on development with python azure app development. 
 - 💬 Ask me about Distributed Systems, ETL/Streaming, & Cloud Application Development.
 - 🤔 I’m looking for help with testing automation.
 - 👋🏿 Post Questions to the Community !

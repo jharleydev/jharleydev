@@ -1,4 +1,4 @@
-# Welcome !
+# Hi !
 
 - 💬 Ask me about Distributed Systems, ETL/Streaming, & Cloud Application Development.
 - 🤔 I’m looking for help with testing automation.

@@ -1,16 +1,33 @@
-### Hi there 👋
+### Welcome, Feel Free to reach outor follow me 
 
-<!--
-**jharleydev/jharleydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about Distributed Systems, ETL/Streaming, & Cloud Application Development.
+- 🤔 I’m looking for help with testing automation.
+- 👋🏿 Post Questions to the Community !
+ 
+Lets Connect 👇🏿
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="https://www.linkedin.com/in/harley-jean-66010aab/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://twitter.com/jharleydev">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://coda.io/@harley-jean">
+    <img src="https://img.shields.io/badge/-Blog-red?style=for-the-badge&logo=coda&logoColor=white" alt="Coda Badge"/>
+  </a>
+ 
+
+ 
+ 
+  <a href="https://twitter.com/i/communities/1531715656713764866">
+    <img src="https://img.shields.io/badge/Join%20the%20Discussion-%20Community-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+</div>
+  
+  
+  
+  
+  
+  
+

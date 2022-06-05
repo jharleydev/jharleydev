@@ -4,6 +4,7 @@
 - 👋🏿 Post Questions to the Community !
  
 Lets Connect 👇🏿
+
   <a href="https://coda.io/@harley-jean">
     <img src="https://img.shields.io/badge/-Blog-red?style=for-the-badge&logo=coda&logoColor=white" alt="Coda Badge"/>
   </a>

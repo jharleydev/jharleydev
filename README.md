@@ -1,7 +1,4 @@
 # TL;DR
-
-- 💬 Ask me about Distributed Systems, ETL/Streaming, & Cloud Application Development.
-- 👋🏿 Post Questions to the Community !
  
 Lets Connect 👇🏿
 
